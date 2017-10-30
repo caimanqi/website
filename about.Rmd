@@ -1,9 +1,7 @@
 ---
 title: "About"
 ---
+#CV
 
-### Something interesting about me.
-
-## Explore The World
-
-I enjoy travelling, because I can tried new things
+<img src="images/0001.jpg" style="width:75%">
+<img src="images/0002.jpg" style="width:75%">

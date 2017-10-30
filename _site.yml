@@ -5,8 +5,8 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "Index"
-      href: cv.html      
+    - text: "About"
+      href: about.html      
     - icon: fa-envelope fa-lg
       href: mailto:<manqi.cai.mk@gmail.com>
     - icon: fa-github fa-lg

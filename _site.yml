@@ -1,0 +1,19 @@
+name: "Manqi-website!"
+output_dir: "."
+navbar:
+  title: "Manqi's Website"
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Index"
+      href: cv.html      
+    - icon: fa-envelope fa-lg
+      href: mailto:<manqi.cai.mk@gmail.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/caimanqi/
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/manqicai/     
+output:
+  html_document:
+    theme: journal
+  
